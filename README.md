@@ -1,12 +1,9 @@
 
----
-
 <p align="center">
   <img src="notebooks/img/escudo_uptc.png" alt="Escudo UPTC" width="200">
 </p>
 
 <h1 align="center">Estadística para Analítica de Datos</h1>
-
 <p align="center">
   <b>Universidad Pedagógica y Tecnológica de Colombia (UPTC)</b><br>
   Periodo Académico: 2026-2
@@ -53,6 +50,4 @@ Duván Cataño — duvan.catano@uptc.edu.co
 Universidad Pedagógica y Tecnológica de Colombia (UPTC)
 
 ## 📄 Licencia
-Uso exclusivamente académico y pedagógico.
-
----
+Uso exclusivamente académico y pedagógico

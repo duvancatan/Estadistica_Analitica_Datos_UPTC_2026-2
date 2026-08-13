@@ -1,3 +1,10 @@
+
+---
+
+<p align="center">
+  <img src="/Users/duvancatano/Documents/Estadistica_Analitica_Datos_UPTC_2026-2/notebooks/img/escudo_uptc.png" alt="Escudo UPTC" width="200">
+</p>
+
 <h1 align="center">Estadística para Analítica de Datos</h1>
 
 <p align="center">
@@ -47,3 +54,5 @@ Universidad Pedagógica y Tecnológica de Colombia (UPTC)
 
 ## 📄 Licencia
 Uso exclusivamente académico y pedagógico.
+
+---

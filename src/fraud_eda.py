@@ -2,10 +2,10 @@
 # LBRERÍAS #
 # ======== #
 
-
 import streamlit as st
 import pandas as pd
 import plotly.express as px
+import os
 
 # ============= #
 # CONFIGURACIÓN #
@@ -26,7 +26,7 @@ st.markdown("Análisis exploratorio interactivo del fraude")
 
 @st.cache_data
 def load_data():
-    return pd.read_csv("/Users/duvancatano/Documents/Data_Analytics_UdeA/ml-project/data/fraud/data_full.csv")
+    return pd.read_csv("/Users/duvancatano/Documents/Estadistica_Analitica_Datos_UPTC_2026-2/data/fraud/data_full.csv")
 
 df = load_data()
 

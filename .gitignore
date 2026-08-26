@@ -1,5 +1,27 @@
-# Archivos a ignorar
+# Pasos en git para incluir archivos en .gitignore
+# 1. git rm -r --cached data/
+#    git rm -r --cached documents/
+#    git rm -r --cached homework/
+#    git rm -r --cached notebook/
+#    git rm -r --cached presentations/
+#    git rm -r --cached src/
+# 2. git commit -m "Remover carpetas de xxx del rastreo"
+# 3. git push
 
+.vscode
+
+# Archivos Notebooks
 notebooks/3.Exploration_Data_Regr.ipynb
-Estadistica_Analitica_Datos_UPTC_2026-2/notebooks/3.Exploration_Data_Regr.ipynb
-/Users/duvancatano/Documents/Estadistica_Analitica_Datos_UPTC_2026-2/notebooks/3.Exploration_Data_Regr.ipynb
+notebooks/4.Exploration_Data_Class.ipynb
+notebooks/5.Hipotesis_Relaciones.ipynb
+notebooks/6.Imputacion.ipynb
+notebooks/7.Pipeline_Escalamiento.ipynb
+notebooks/8.Model_Regression_Housing.ipynb
+notebooks/9.Model_Logistic_Spam.ipynb
+notebooks/10.Model_Time_Series.ipynb
+notebooks/11.Tendencia_Suavizacion_R.ipynb
+
+# Archivos Homework
+homework/entregable_1
+homework/entregable_2
+homework/entregable_3

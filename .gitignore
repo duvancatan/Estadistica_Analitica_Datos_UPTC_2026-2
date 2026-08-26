@@ -8,6 +8,7 @@
 # 2. git commit -m "Remover carpetas de xxx del rastreo"
 # 3. git push
 
+# Archivos de configuración
 .vscode
 
 # Archivos Notebooks
@@ -25,3 +26,6 @@ notebooks/11.Tendencia_Suavizacion_R.ipynb
 homework/entregable_1
 homework/entregable_2
 homework/entregable_3
+
+# Archivos Documentos
+documents/Grupo-2_2026-2.xlsx

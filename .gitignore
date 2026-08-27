@@ -12,9 +12,11 @@
 .vscode
 
 # Archivos Notebooks
-notebooks/3.Exploration_Data_Regr.ipynb
-notebooks/4.Exploration_Data_Class.ipynb
-notebooks/5.Hipotesis_Relaciones.ipynb
+#notebooks/1.1.Visualizacion_Frecuencias.ipynb
+#notebooks/2.Estadistica_Descriptiva.ipynb
+#notebooks/3.Exploration_Data_Regr.ipynb
+#notebooks/4.Exploration_Data_Class.ipynb
+#notebooks/5.Hipotesis_Relaciones.ipynb
 notebooks/6.Imputacion.ipynb
 notebooks/7.Pipeline_Escalamiento.ipynb
 notebooks/8.Model_Regression_Housing.ipynb

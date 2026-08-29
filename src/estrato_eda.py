@@ -24,7 +24,7 @@ st.set_page_config(
 
 # Reemplace con su archivo
 #mainpath= "/Users/duvancatano/Documents/Estadistica_Analitica_Datos_UTPC_2026-1/data/housing/housing_dataset.csv"
-data = pd.read_csv("/Users/duvancatano/Documents/Estadistica_Analitica_Datos_UTPC_2026-1/data/housing/housing_dataset.csv")
+data = pd.read_csv("/Users/duvancatano/Documents/Estadistica_Analitica_Datos_UPTC_2026-2/data/housing/housing_dataset.csv")
 
 #================================================#
 # TÍTULO

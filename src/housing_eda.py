@@ -7,7 +7,7 @@ import os
 # KPIs
 # =========================
 
-mainpath= "/Users/duvancatano/Documents/Estadistica_Analitica_Datos_UTPC_2026-1/data/housing"
+mainpath= "/Users/duvancatano/Documents/Estadistica_Analitica_Datos_UPTC_2026-2/data/housing"
 filename= "housing_dataset.csv"
 fullpath= os.path.join(mainpath,filename)
 df = pd.read_csv(fullpath, sep=",") # El separador es "," porque en el archivo .csv los valores están separados por coma
@@ -17,6 +17,7 @@ pd.set_option('display.max_columns', None) # Para mostrar todas las columnas del
 kpi_valor_promedio = df["valor_de_mercado_de_la_vivienda"].mean()
 kpi_area_promedio = df["area_total_m2"].mean()
 kpi_ingreso_promedio = df["ingreso_del_hogar"].mean()
+kpi_ingreso_mediano = df["ingreso_del_hogar"].median()
 
 # =============================================== #
 # FIGURA 1: Scatter de Área vs Valor por Estrato  #

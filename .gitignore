@@ -17,8 +17,8 @@
 #notebooks/3.Exploration_Data_Regr.ipynb
 #notebooks/4.Exploration_Data_Class.ipynb
 #notebooks/5.Hipotesis_Relaciones.ipynb
-notebooks/6.Imputacion.ipynb
-notebooks/7.Pipeline_Escalamiento.ipynb
+#notebooks/6.Imputacion.ipynb
+#notebooks/7.Pipeline_Escalamiento.ipynb
 notebooks/8.Model_Regression_Housing.ipynb
 notebooks/9.Model_Logistic_Spam.ipynb
 notebooks/10.Model_Time_Series.ipynb

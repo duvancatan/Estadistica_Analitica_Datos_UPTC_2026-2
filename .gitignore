@@ -44,6 +44,7 @@ documents/Reporte-Notas-G2.pdf
 presentations/2_Hipótesis_Asociación.pdf
 
 # Archivos src
+#src/housing_eda.py
 src/estrato_eda.py
 src/fraud_eda.py
 src/housing_pred_stream.py

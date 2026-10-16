@@ -16,7 +16,7 @@
 #notebooks/2.Estadistica_Descriptiva.ipynb
 notebooks/3.Exploration_Data_Regr.ipynb
 notebooks/4.Exploration_Data_Class.ipynb
-notebooks/5.Hipotesis_Relaciones.ipynb
+notebooks/5.Hipotesis_Asociacion.ipynb
 notebooks/6.Imputacion.ipynb
 notebooks/7.Pipeline_Escalamiento.ipynb
 notebooks/8.Model_Regression_Housing.ipynb
@@ -25,19 +25,22 @@ notebooks/10.Model_Time_Series.ipynb
 notebooks/11.Tendencia_Suavizacion_R.ipynb
 
 # Archivos Homework
-homework/entregable_1
-homework/entregable_2
-homework/entregable_3
+#homework/entregable_1
+#homework/entregable_2
+#homework/entregable_3
+#homework/Laboratorio_1.pdf
 homework/Laboratorio_2.pdf
 homework/Laboratorio_3.pdf
 
 # Archivos Documentos
+documents/Contenidos UPTC.docx
 documents/Grupo-1_2026-2.xlsx
 documents/Grupo-2_2026-2.xlsx
 documents/Reporte-Notas-G2.pdf
 
 # Archivos Presentaciones
-presentations/1_Exploración_Datos.pdf
+#presentations/0_Presentación.pdf
+#presentations/1_Exploración_Datos.pdf
 presentations/2_Hipótesis_Asociación.pdf
 
 # Archivos src

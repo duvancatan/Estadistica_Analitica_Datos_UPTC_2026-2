@@ -17,7 +17,7 @@ notebooks/img
 #notebooks/2.Estadistica_Descriptiva.ipynb
 #notebooks/3.Exploration_Data_Regr.ipynb
 #notebooks/4.Exploration_Data_Class.ipynb
-notebooks/5.Hipotesis_Asociacion.ipynb
+#notebooks/5.Hipotesis_Asociacion.ipynb
 notebooks/6.Imputacion.ipynb
 notebooks/7.Pipeline_Escalamiento.ipynb
 notebooks/8.Model_Regression_Housing.ipynb
@@ -30,7 +30,7 @@ homework/entregable_1
 homework/entregable_2
 homework/entregable_3
 #homework/Laboratorio_1.pdf
-homework/Laboratorio_2.pdf
+#homework/Laboratorio_2.pdf
 homework/Laboratorio_3.pdf
 
 # Archivos Documentos
@@ -42,7 +42,7 @@ documents/Reporte-Notas-G2.pdf
 # Archivos Presentaciones
 #presentations/0_Presentación.pdf
 #presentations/1_Exploración_Datos.pdf
-presentations/2_Hipótesis_Asociación.pdf
+#presentations/2_Hipótesis_Asociación.pdf
 
 # Archivos src
 #src/housing_eda.py

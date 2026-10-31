@@ -20,9 +20,9 @@
 #notebooks/5.Hipotesis_Asociacion.ipynb
 #notebooks/6.Imputacion.ipynb
 #notebooks/7.Pipeline_Escalamiento.ipynb
-notebooks/8.Model_Regression_Housing.ipynb
-notebooks/9.Model_Logistic_Spam.ipynb
-notebooks/10.Model_Time_Series.ipynb
+#notebooks/8.Model_Regression_Housing.ipynb
+#notebooks/9.Model_Logistic_Spam.ipynb
+#notebooks/10.Model_Time_Series.ipynb
 notebooks/11.Tendencia_Suavizacion_R.ipynb
 
 # Archivos Homework
@@ -31,7 +31,7 @@ homework/entregable_2
 homework/entregable_3
 #homework/Laboratorio_1.pdf
 #homework/Laboratorio_2.pdf
-homework/Laboratorio_3.pdf
+#homework/Laboratorio_3.pdf
 
 # Archivos Documentos
 documents/Contenidos UPTC.docx
@@ -47,5 +47,5 @@ documents/Reporte-Notas-G2.pdf
 # Archivos src
 #src/housing_eda.py
 #src/fraud_eda.py
-src/estrato_eda.py
-src/housing_pred_stream.py
+#src/estrato_eda.py
+#src/housing_pred_stream.py
